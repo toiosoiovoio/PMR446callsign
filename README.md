@@ -7,8 +7,7 @@ Needs pyhton..., pip, and sqlite3 to be installed on you system.
 Tested...it works fine on a Docker Python container. I do see a reason it should not work on similar enviroments or other Python instances.
 
 >> PLEASE NOTICE
-1- Replace YOUR TELEGRAM TOKEN with your bot token, obtained from Telegram "BotFather". It's on lne 7.
-2- Change the password to your own generated passord or else, everyone that knows this code will be able to delete your data./delete command is not working for now but it will... It's on line 13
+Replace YOUR TELEGRAM TOKEN with your bot token, obtained from Telegram "BotFather". It's on lne 7. Also take a minute to change the password to a new one or else, everyone that knows this code will be able to delete your data. (/delete command is not working for now, but it will... It's on line 13)
 
 
 Pleas take into account that
