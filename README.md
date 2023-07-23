@@ -6,7 +6,7 @@ Needs pyhton..., pip, and sqlite3 to be installed on you system.
 
 Tested...it works fine on a Docker Python container. I do see a reason it should not work on similar enviroments or other Python instances.
 
-Replace YOUR TELEGRAM TOKEN with you bot token obtained from Telegram "BotFather"
+Replace YOUR TELEGRAM TOKEN with your bot token, obtained from Telegram "BotFather". It's on lne 7.
 
 
 Pleas take into account that
