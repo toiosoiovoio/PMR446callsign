@@ -1,6 +1,6 @@
 # PMR446callsign
 
-PMR446callsign is a telegram bot writing in Python.
+PMR446callsign is a telegram bot written in Python.
 
 Needs pyhton..., pip, and sqlite3 to be installed on you system.
 
@@ -10,8 +10,8 @@ Replace YOUR TELEGRAM TOKEN with you bot token obtained from Telegram "BotFather
 
 
 Pleas take into account that
-  The "generated_word.db" will be created when you run the script. This is where the call sign are being store.
-  the call sign is generated a interval the goes from 1 to 9999. Reduce or enlarge it by modifing line 55 and 76
+  The "generated_word.db" will be created when you run the script. This is where the call signs are being store.
+  The script add a random number from 1 to 9999 to the word PMR. Reduce, enlarge of change the interval by modifing both lines 55 and 76
 
 
 
