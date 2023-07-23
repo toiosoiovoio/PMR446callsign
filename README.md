@@ -17,5 +17,5 @@ Pleas take into account that
 
 23 July 2023 -  version 0.1
 - /delete command not working :(
-- the bot misses a /start with list of commands and description.
+- the bot misses a /start command to show a list of commands and description of bot.
 - Not sure if the feature that check is the generated call sign exists on the database works.
