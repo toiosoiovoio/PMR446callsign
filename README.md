@@ -12,10 +12,11 @@ Replace YOUR TELEGRAM TOKEN with your bot token, obtained from Telegram "BotFath
 
 Take into account that the "generated_word.db" will be created when you run the script. This is where the call signs are being store. The script adds a random number from 1 to 9999 to the word PMR. Reduce, enlarge of change the interval by modifing both lines 55 and 76. This file can be deleted to remove all call signs. If you do not what the call sign to start with PMR but something else, change it on line 55 an 76.
 
+Create with CHATGPT and reviews by me. However the main work cames the AI "thing".
 
 
 23 July 2023 -  version 0.1
 - /delete all call signs command not working :(
 - a selective /delete call sign will be a future feature.
 - the bot misses a /start command to show a list of commands and description of bot.
-- Not sure if the feature that check is the generated call sign exists on the database works... I'm a newbie!
+- Not sure if the feature that checks is the generated call sign exists on the database works... 
