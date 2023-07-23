@@ -10,7 +10,7 @@ Tested...it works fine on a Docker Python container. I do see a reason it should
 Replace YOUR TELEGRAM TOKEN with your bot token, obtained from Telegram "BotFather". It's on lne 7. Also take a minute to change the password to a new one or else, everyone that knows this code will be able to delete your data. (/delete command is not working for now, but it will... It's on line 13). Do not assune that this authentication method is a solid, bullet proof, fool proof, no risk and unhackable method. In fact it is not. So... NO WARRANTIES. IF YOUR DATA IS IMPORTANT TO YO, BACK IT UP!!! I CANNOT BE TAKEN ACCOUNTABLE FOR WHAT DAMAGE MAY OCCUR, FINANCIAL OR OTHER, BY THE USE OF THIS PEICE OF (s....) CODE.
 
 
-Take into account that the "generated_word.db" will be created when you run the script. This is where the call signs are being store. The script adds a random number from 1 to 9999 to the word PMR. Reduce, enlarge of change the interval by modifing both lines 55 and 76. This file can be deleted to remove all call signs.
+Take into account that the "generated_word.db" will be created when you run the script. This is where the call signs are being store. The script adds a random number from 1 to 9999 to the word PMR. Reduce, enlarge of change the interval by modifing both lines 55 and 76. This file can be deleted to remove all call signs. If you do not what the call sign to start with PMR but something else, change it on line 55 an 76.
 
 
 
