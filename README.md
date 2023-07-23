@@ -9,11 +9,13 @@ Tested...it works fine on a Docker Python container. I do see a reason it should
 Replace YOUR TELEGRAM TOKEN with you bot token obtained from Telegram "BotFather"
 
 
-the "generated_word.db" will be created when you run the script. This is where the call sign are being store.
+Pleas take into account that
+  The "generated_word.db" will be created when you run the script. This is where the call sign are being store.
+  the call sign is generated a interval the goes from 1 to 9999. Reduce or enlarge it by modifing line 55 and 76
 
 
 
 23 July 2023 -  version 0.1
-- /delete command nor working
-- misses a /start with list of commands and description.
+- /delete command not working :(
+- the bot misses a /start with list of commands and description.
 - Not sure if the feature that check is the generated call sign exists on the database works.
